@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **frontend system design**
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **javascript, react, DSA**
 
 - 📫 How to reach me **kulkarnimadhushree785@gmail.com**
 
