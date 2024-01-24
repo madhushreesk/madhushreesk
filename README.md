@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer</h3>
 <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="animatedGIF" width="500"  align="right"/>
 
-- 🌱 I’m currently learning **frontend system design**
+- 🌱 I’m currently learning **Software Development**
 
 - 💬 Ask me about **javascript, react, DSA**
 
